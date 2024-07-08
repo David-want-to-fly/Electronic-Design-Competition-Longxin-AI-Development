@@ -1,0 +1,16 @@
+# Custom data for safety helmet
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: D:/DL-ML-DRL/CV/yolo-series/yolov5-yolo412/yolov5master/Date_YOLO_Block/images/train
+val: D:/DL-ML-DRL/CV/yolo-series/yolov5-yolo412/yolov5master/Date_YOLO_Block/images/valid
+
+# number of classes
+nc: 3
+
+# class names
+names: ['cone', 'cylinder','sphere']
+
+
+
+
